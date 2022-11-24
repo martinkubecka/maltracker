@@ -18,7 +18,7 @@
 - clone this project with the following command
 
 ```
-$ git clone <>
+$ git clone https://github.com/martinkubecka/maltracker.git
 ```
 
 - configure desired country code in `config/config.yml`
